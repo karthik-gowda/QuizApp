@@ -12,24 +12,10 @@ const errorMessage = document.querySelector("#errorMessage");
 
 //Login Authentication
 let userDetails = [
+    
     {
-        userName: "karthik@indegene.com",
-        password: "karthik123",
-        score: [],
-    },
-    {
-        userName: "user2@indegene.com",
-        password: "user2",
-        score: [],
-    },
-    {
-        userName: "user3@indegene.com",
-        password: "user3",
-        score: [],
-    },
-    {
-        userName: "user4@gmail.com",
-        password: "user4",
+        userName: "user1@gmail.com",
+        password: "user1",
         score: [],
     },
 ];
